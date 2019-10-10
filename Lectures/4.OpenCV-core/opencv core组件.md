@@ -156,8 +156,6 @@ void dft(InputArray src, OutputArray dst, int flag=0, int nonzeroRows=0);
 ```
 
 - 实例程序：离散傅立叶变换 见书139页
-- 
-
 
 
 
