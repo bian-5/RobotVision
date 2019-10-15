@@ -67,11 +67,11 @@ Level5:高度自动化，自动驾驶完成所有驾驶，无需人类干预，�
 1.安装visual studio2019 community
 <https://visualstudio.microsoft.com/>
 
-![alt png](1.png)
+![alt png](./src/1.png)
 
 安装完成后进入，
 
-![alt png](2.png)
+![alt png](./src/2.png)
 
 2.下载安装OpenCV环境，
 
@@ -80,41 +80,41 @@ Level5:高度自动化，自动驾驶完成所有驾驶，无需人类干预，�
 3.安装配置OpenCV3环境变量
 在我的电脑上右键“属性”，点击“高级系统环境”。
 
-![alt png](3.png)
+![alt png](./src/3.png)
 在用户变量中，点击Path变量并编辑，添加dll所在路径
 
-![alt png](4.png)
-![alt png](5.png)
+![alt png](./src/4.png)
+![alt png](./src/5.png)
 确定后，并重启以使得环境变量生效。
 
 4.在vs2019中新建项目
 选择路径“File->New->Project”：
-![alt png](6.png)
+![alt png](./src/6.png)
 
 依次选择Language为C++，
 Platform为Windows，Project type为desktop.
 
-![alt png](7.png)
+![alt png](./src/7.png)
 选择Windows Desktop Wizard，并选择Next,
-![alt png](8.png)
+![alt png](./src/8.png)
 点击Create,并下弹出的对话框中选择，Application type 为Console, 选择Empty Project,
-![alt png](9.png)
+![alt png](./src/9.png)
 点击OK，在Source files里面右键，添加New item:
 
-![alt png](10.png)
+![alt png](./src/10.png)
 添加test01.cpp源文件。
 
 右键test01这个Project,选择Properties:
-![alt png](11.png)
+![alt png](./src/11.png)
 
 选择VC++ Directories，在Include Directories中，
-![alt png](12.png)
+![alt png](./src/12.png)
 添加C:\Programs\OpenCV\opencv411\build\include和C:\Programs\OpenCV\opencv411\build\include\opencv2这两个目录。
-![alt png](13.png)
+![alt png](./src/13.png)
 在Library Directories中添加C:\Programs\OpenCV\opencv411\build\x64\vc15\lib：
-![alt png](14.png)
+![alt png](./src/14.png)
 在Linker->Input目录下，点击Additional Dependencies并添加opencv_world411d.lib静态库：
-![alt png](15.png)
+![alt png](./src/15.png)
 点击OK并确定退出。
 
 经历以上步骤，OpenCV的环境就配好了。
@@ -140,5 +140,5 @@ Platform为Windows，Project type为desktop.
 
 并编译执行,得到：
 
-![alt png](16.png)
+![alt png](./src/16.png)
 
