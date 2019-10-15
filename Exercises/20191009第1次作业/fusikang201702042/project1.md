@@ -8,7 +8,7 @@
   5. 在项目属性的vc++目录的包含目录下添加E:\opencv\build\include\opencv2，
   E:\opencv\build\include 在库目录下添加E:\opencv\build\x64\vc15\lib
   在连接器下的输入添加附加依赖项E:\opencv\build\x64\vc15\lib\opencv_world411d.lib
-  ![](3.jpg)
+  ![](.\media\3.jpg)
   6. 开始测试
   按照书上的代码显示图片，需要把图片的位置找到，\要换成\\不然会报错，过程中有很多问提，在老师的指导下改过来，能正确显示图片。
   原图如下
