@@ -28,7 +28,7 @@ RobotVision课程中图像处理我们采用OpenCV提供的库函数来完成图
     }  
 效果展示：
 
-![alt png](16.png)
+![alt png](./src/16.png)
 
 原理分析：
 
@@ -78,7 +78,7 @@ cv :: waitKey函数，该函数显示指定毫秒时间的图像。若不使用�
     }
 
 效果展示：
-![alt png](17.png)
+![alt png](./src/17.png)
 
 腐蚀主要用于形态学中除去图像的某些部分
 
@@ -123,7 +123,7 @@ cv :: waitKey函数，该函数显示指定毫秒时间的图像。若不使用�
     }
 效果展示：
 
-![alt png](20.png)
+![alt png](./src/20.png)
 
 
 
@@ -154,7 +154,7 @@ OpenCV提供的均值滤波：
 中值：中间值，将数据从小到大排序后的中间值。
 用3×3大小模板进行中值滤波。对模板中的9个数进行从小到大排序：1,1,1,2 ，2,5,6,6,10。中间值为2所有，中值滤波后（2,2）位置的值变为2.同理对其他像素点。
 
-![alt png](18.png)
+![alt png](./src/18.png)
 
 OpenCV提供的中值滤波的函数：
 
@@ -169,17 +169,17 @@ OpenCV提供的中值滤波的函数：
 
 高斯函数：
 
-![alt png](19.png)
+![alt png](./src/19.png)
 
-![alt png](20.jpg)
+![alt png](./src/20.jpg)
 
 一维的：
 
-![alt gif](1.gif)
+![alt gif](./src/1.gif)
 
 二维的：
 
-![alt gif](2.gif)
+![alt gif](./src/2.gif)
 
 
 
@@ -257,7 +257,7 @@ OpenCV提供的双边滤波处理的函数有：
 
 效果展示：
 
-![alt png](21.png)
+![alt png](./src/21.png)
 
 ### canny边缘检测算法的发展和用途
 
@@ -299,11 +299,11 @@ Canny边缘检测算法可以分为以下5个步骤：
 
 一维的高斯滤波前面已经引用过：
 
-![alt gif](1.gif)
+![alt gif](./src/1.gif)
 
 二维的高斯滤波前面已经引用过：
 
-![alt gif](2.gif)
+![alt gif](./src/2.gif)
 
 ### 高斯模糊
 
