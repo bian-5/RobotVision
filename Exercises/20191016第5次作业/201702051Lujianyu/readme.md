@@ -23,11 +23,12 @@
 - 平台系统：机器学习平台，工具，AI 程序设计
 
   人类需要一个平台来作为训练的模型
-  #
+
+  
  -  支撑技术：模式识别，计算机视觉，语音信息处理，启发式搜索，自动规划，多智能体系统
       
-      人工智能以及有很多比较成熟的子领域，这些技术能让我们在其基础上构建更复杂和丰富的应用
-      #
+  人工智能以及有很多比较成熟的子领域，这些技术能让我们在其基础上构建更复杂和丰富的应用 
+      
  - 核心基础：机器学习，知识表示与处理
    
 
@@ -105,4 +106,9 @@ python.exe install.py //开始安装
 Failed to initialize the model: Cannot load:cublas64_92.dll. CUDA 9.2 requir
 ```
 - 但是提前在第四步更换会引起模型训练错误![](media/12.PNG)
-- 本人是先用9.0版本训练出模型然后在升级9.2版本进行后期作业
+-
+# **解决方法** 
+- 访问 （<font color="#cf6923" size=4 face="黑体">https://developer.nvidia.com/rdp/cudnn-archive</font>）下载  
+```Download cuDNN v7.2.1 (August 7, 2018), for CUDA 9.2```版本
+![](media/13.PNG)
+- 问题解决![](media/14.PNG)
