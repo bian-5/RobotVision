@@ -2,7 +2,7 @@
 
 # 目录结构
 
-- 微软-方案1
+- 微软-方案1 (OUT, 不推荐)
 
     - 基于MNIST数据集、TensorFlow和VS Tools for AI实现。
     - 教案 [微软-方案1/self-built_mnist_app.md 文件](./微软-方案1/self-built_mnist_app.md)
