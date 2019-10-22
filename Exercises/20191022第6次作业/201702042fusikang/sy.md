@@ -113,9 +113,9 @@ MainPage.xaml.cs的代码如下
 
 ### 运行结果
    基于Windows Machine Learning的手写数字推理识别
-   ![](\media\1.jpg)
+   ![](.\media\1.jpg)
    基于ONNX Runtime的手写数字推理识别
-   ![](\media\2.jpg)
+   ![](.\media\2.jpg)
 
 
 ## 实验总结
