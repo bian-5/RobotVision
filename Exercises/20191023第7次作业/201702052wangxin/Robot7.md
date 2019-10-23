@@ -3,7 +3,7 @@ RobotVision
 # 第八次总结
 # 第八次课题：基于深度学习算法的目标检测算法--YOLO
 
-![](107.jpg)
+![](./src/107.jpg)
 
 # YOLO: Real-Time Object Detection 实时对象检测算法
 
@@ -11,11 +11,11 @@ RobotVision
 
 **YOLOv3** is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on par with Focal Loss but about 4x faster. Moreover, you can easily tradeoff between speed and accuracy simply by changing the size of the model, no retraining required!
 
-![](108.png)
+![](./src/108.png)
 
 与其他探测器的比较 YOLOv3非常快速和准确。在mAP值为0.5 IOU时，YOLOv3与Focal Loss相当，但速度约快4倍。此外，只需更改模型的大小即可轻松在速度和精度之间进行权衡，而无需重新训练！
 
-![](109.png)
+![](./src/109.png)
 
 ## How It Works
 
@@ -27,7 +27,7 @@ Our model has several advantages over classifier-based systems. It looks at the 
 
 与基于分类器的系统相比，我们的模型具有多个优势。它在测试时查看整个图像，因此其预测由图像中的全局上下文提供。它还像R-CNN这样的系统需要单个网络评估来进行预测，而R-CNN单个图像需要数千个。这使其变得非常快，比R-CNN快1000倍以上，比Fast R-CNN快100倍。
 
-![](110.png)
+![](./src/110.png)
 
 If you don't already have Darknet installed, you should do that first.
 
@@ -43,9 +43,9 @@ YOLO的检测思想不同于R-CNN系列的思想，它将目标检测作为回�
 
 下面来看看YOLO的整体结构：
 
-![](111.png)
+![](./src/111.png)
 
-![](112.png)
+![](./src/112.png)
 
 由上两图所示，网络是根据GoogLeNet改进的，输入图片为448*448大小，输出为7*7*(2*5+20)，现在看来这样写输出维度很奇怪，下面来看一下输出是怎么定义的。
 
@@ -59,11 +59,11 @@ YOLO的检测思想不同于R-CNN系列的思想，它将目标检测作为回�
 
 所以，最后网络的输出维度为S * S * (B * 5 + C)，这里虽然每个单元格负责预测一种物体(这也是这篇文章的问题，当有小物体时可能会有问题)，但是每个单元格可以预测多个bbox值(这里可以认为有多个不同形状的bbox，为了更准确的定位出物体，如下图所示)。
 
-![](113.png)
+![](./src/113.png)
 
 至于大神的一通数学分析我并没有细致研究。也不是我主要的研究领域，暂时搁置。
 
-![](115.png)
+![](./src/115.png)
 
 可以看到，YOLO中依旧使用ONNX Runtime封装ONNX模型来实现目标检测。
 
@@ -71,7 +71,7 @@ Assets文件中的.png文件均是识别物体的矩形框，不同的是，各�
 
 ## 识别页面布局：MainPage.xaml
 
-![](116.png)
+![](./src/116.png)
 
     <Grid>
             <Grid.RowDefinitions>
@@ -88,16 +88,16 @@ Assets文件中的.png文件均是识别物体的矩形框，不同的是，各�
 
 ## 识别场景：
 
-![](118.png)
+![](./src/118.png)
 识别为人
 
-![](119.png)
+![](./src/119.png)
 识别为水杯
 
-![](120.png)
+![](./src/120.png)
 识别为屏幕
 
-![](121.png)
+![](./src/121.png)
 识别为car
 
 ## 摄像头的调度：
@@ -115,7 +115,7 @@ Assets文件中的.png文件均是识别物体的矩形框，不同的是，各�
 
 识别物体的具体参数：
 
-![](117.png)
+![](./src/117.png)
 
 # 总结
 
