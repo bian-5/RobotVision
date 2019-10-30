@@ -2,7 +2,7 @@
 
 ## 基于以下两种方法（任选其一）
 
-- onnxruntime
+- OnnxRuntime
 
 - Windows Machine Learning
 
