@@ -2,9 +2,9 @@
 
 ## 基于以下两种方法（任选其一）
 
-- OnnxRuntime
+- **OnnxRuntime**
 
-- Windows Machine Learning
+- **Windows Machine Learning**
 
 ## 要求：界面优美，功能完善，重点要有自己的"idea"，体现设计思想
 
