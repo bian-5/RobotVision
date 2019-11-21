@@ -1,0 +1,9 @@
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.csprojAssemblyReference.cache
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.Form1.resources
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.Properties.Resources.resources
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.csproj.GenerateResource.cache
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\bin\Debug\Mnistwf.exe.config
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\bin\Debug\Mnistwf.exe
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\bin\Debug\Mnistwf.pdb
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.exe
+D:\Works\MicrosoftAI\Mnistwf\Mnistwf\obj\Debug\Mnistwf.pdb
