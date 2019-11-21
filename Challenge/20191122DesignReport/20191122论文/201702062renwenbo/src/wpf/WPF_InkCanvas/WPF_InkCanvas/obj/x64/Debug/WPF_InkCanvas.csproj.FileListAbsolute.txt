@@ -1,0 +1,14 @@
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\bin\x64\Debug\WPF_InkCanvas.exe.config
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\bin\x64\Debug\WPF_InkCanvas.exe
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\bin\x64\Debug\WPF_InkCanvas.pdb
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.csprojAssemblyReference.cache
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\MainWindow.g.cs
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\App.g.cs
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas_MarkupCompile.cache
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas_MarkupCompile.lref
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\MainWindow.baml
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.g.resources
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.Properties.Resources.resources
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.csproj.GenerateResource.cache
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.exe
+E:\vs\WPF_InkCanvas\WPF_InkCanvas\obj\x64\Debug\WPF_InkCanvas.pdb
