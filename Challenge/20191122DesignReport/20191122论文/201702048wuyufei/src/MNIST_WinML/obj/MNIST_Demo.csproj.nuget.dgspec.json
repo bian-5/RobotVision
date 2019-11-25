@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pangzi\\Desktop\\zhangyun\\RobotVision-master\\RobotVision-master\\Lectures\\5-目标检测与识别1-AI301\\1-AI-edu-MNIST\\HUAT-方案2\\MNIST_WinML\\MNIST_Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pangzi\\Desktop\\zhangyun\\RobotVision-master\\RobotVision-master\\Lectures\\5-目标检测与识别1-AI301\\1-AI-edu-MNIST\\HUAT-方案2\\MNIST_WinML\\MNIST_Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pangzi\\Desktop\\zhangyun\\RobotVision-master\\RobotVision-master\\Lectures\\5-目标检测与识别1-AI301\\1-AI-edu-MNIST\\HUAT-方案2\\MNIST_WinML\\MNIST_Demo.csproj",
+        "projectName": "MNIST_Demo",
+        "projectPath": "C:\\Users\\Pangzi\\Desktop\\zhangyun\\RobotVision-master\\RobotVision-master\\Lectures\\5-目标检测与识别1-AI301\\1-AI-edu-MNIST\\HUAT-方案2\\MNIST_WinML\\MNIST_Demo.csproj",
+        "packagesPath": "C:\\Users\\Pangzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pangzi\\Desktop\\zhangyun\\RobotVision-master\\RobotVision-master\\Lectures\\5-目标检测与识别1-AI301\\1-AI-edu-MNIST\\HUAT-方案2\\MNIST_WinML\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pangzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.1.9, )"
+            },
+            "Win2D.uwp": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
