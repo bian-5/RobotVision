@@ -1,0 +1,72 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\bin\Debug\手写识别.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\bin\Debug\手写识别.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\手写识别.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\手写识别.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\手写识别.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\手写识别\手写识别\obj\Debug\手写识别.pdb
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\手写识别.exe
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\手写识别.pdb
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\bin\Debug\手写识别.exe
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\bin\Debug\手写识别.pdb
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\手写识别.Form1.resources
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\obj\Debug\手写识别.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\手写识别\obj\Debug\手写识别.exe
+C:\Documents and Settings\Administrator\桌面\手写识别\手写识别\手写识别\手写识别\obj\Debug\手写识别.pdb
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\手写识别.exe
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\手写识别.pdb
+C:\Users\marc232\Desktop\手写识别\手写识别\bin\Debug\手写识别.exe
+C:\Users\marc232\Desktop\手写识别\手写识别\bin\Debug\手写识别.pdb
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\手写识别.Form1.resources
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\marc232\Desktop\手写识别\手写识别\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\手写识别.exe
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\手写识别.pdb
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\bin\Debug\手写识别.exe
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\bin\Debug\手写识别.pdb
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\手写识别.Form1.resources
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\手写识别\手写识别\手写识别\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.exe
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.pdb
+F:\Project\手写识别\手写识别\bin\Debug\手写识别.exe
+F:\Project\手写识别\手写识别\bin\Debug\手写识别.pdb
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.Form1.resources
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.csproj.GenerateResource.Cache
+F:\Project\手写识别\手写识别\obj\Debug\手写识别.csprojResolveAssemblyReference.cache
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.exe
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.pdb
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.csprojResolveAssemblyReference.cache
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.Form1.resources
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\obj\Debug\手写识别.csproj.GenerateResource.Cache
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\bin\Debug\手写识别.exe
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\bin\Debug\手写识别.pdb
+E:\郝光明工作\工作\代码上传\10.9\c#  手写识别程序\手写识别\bin\Debug\Microsoft.Ink.dll
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\bin\Debug\手写识别.exe.config
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\bin\Debug\手写识别.exe
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\bin\Debug\手写识别.pdb
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.csprojAssemblyReference.cache
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.Form1.resources
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.csproj.GenerateResource.cache
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.exe
+D:\ShouXieShiBie_105e40f8-c34a-4617-8ea6-54eaad90035e\手写识别\obj\Debug\手写识别.pdb
+D:\bian_shouxie\手写识别\bin\Debug\手写识别.exe.config
+D:\bian_shouxie\手写识别\bin\Debug\手写识别.exe
+D:\bian_shouxie\手写识别\bin\Debug\手写识别.pdb
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.csprojAssemblyReference.cache
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.Form1.resources
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.Properties.Resources.resources
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.csproj.GenerateResource.cache
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.exe
+D:\bian_shouxie\手写识别\obj\Debug\手写识别.pdb
